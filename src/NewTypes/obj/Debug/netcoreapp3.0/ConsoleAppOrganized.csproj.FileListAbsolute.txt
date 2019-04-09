@@ -1,0 +1,12 @@
+D:\Repos\ConsoleAppOrganized\obj\Debug\netcoreapp3.0\ConsoleAppOrganized.csprojAssemblyReference.cache
+D:\Repos\ConsoleAppOrganized\obj\Debug\netcoreapp3.0\ConsoleAppOrganized.csproj.CoreCompileInputs.cache
+D:\Repos\ConsoleAppOrganized\obj\Debug\netcoreapp3.0\ConsoleAppOrganized.AssemblyInfoInputs.cache
+D:\Repos\ConsoleAppOrganized\obj\Debug\netcoreapp3.0\ConsoleAppOrganized.AssemblyInfo.cs
+D:\Repos\ConsoleAppOrganized\bin\Debug\netcoreapp3.0\ConsoleAppOrganized.exe
+D:\Repos\ConsoleAppOrganized\bin\Debug\netcoreapp3.0\ConsoleAppOrganized.deps.json
+D:\Repos\ConsoleAppOrganized\bin\Debug\netcoreapp3.0\ConsoleAppOrganized.runtimeconfig.json
+D:\Repos\ConsoleAppOrganized\bin\Debug\netcoreapp3.0\ConsoleAppOrganized.runtimeconfig.dev.json
+D:\Repos\ConsoleAppOrganized\bin\Debug\netcoreapp3.0\ConsoleAppOrganized.dll
+D:\Repos\ConsoleAppOrganized\bin\Debug\netcoreapp3.0\ConsoleAppOrganized.pdb
+D:\Repos\ConsoleAppOrganized\obj\Debug\netcoreapp3.0\ConsoleAppOrganized.dll
+D:\Repos\ConsoleAppOrganized\obj\Debug\netcoreapp3.0\ConsoleAppOrganized.pdb

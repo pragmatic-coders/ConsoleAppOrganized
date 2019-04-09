@@ -1,0 +1,12 @@
+D:\Repos\ConsoleAppOrganized\src\NewTypes\bin\Debug\netcoreapp3.0\NewTypes.exe
+D:\Repos\ConsoleAppOrganized\src\NewTypes\bin\Debug\netcoreapp3.0\NewTypes.deps.json
+D:\Repos\ConsoleAppOrganized\src\NewTypes\bin\Debug\netcoreapp3.0\NewTypes.runtimeconfig.json
+D:\Repos\ConsoleAppOrganized\src\NewTypes\bin\Debug\netcoreapp3.0\NewTypes.runtimeconfig.dev.json
+D:\Repos\ConsoleAppOrganized\src\NewTypes\bin\Debug\netcoreapp3.0\NewTypes.dll
+D:\Repos\ConsoleAppOrganized\src\NewTypes\bin\Debug\netcoreapp3.0\NewTypes.pdb
+D:\Repos\ConsoleAppOrganized\src\NewTypes\obj\Debug\netcoreapp3.0\NewTypes.csprojAssemblyReference.cache
+D:\Repos\ConsoleAppOrganized\src\NewTypes\obj\Debug\netcoreapp3.0\NewTypes.csproj.CoreCompileInputs.cache
+D:\Repos\ConsoleAppOrganized\src\NewTypes\obj\Debug\netcoreapp3.0\NewTypes.AssemblyInfoInputs.cache
+D:\Repos\ConsoleAppOrganized\src\NewTypes\obj\Debug\netcoreapp3.0\NewTypes.AssemblyInfo.cs
+D:\Repos\ConsoleAppOrganized\src\NewTypes\obj\Debug\netcoreapp3.0\NewTypes.dll
+D:\Repos\ConsoleAppOrganized\src\NewTypes\obj\Debug\netcoreapp3.0\NewTypes.pdb
